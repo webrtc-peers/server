@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "node-turn": "^0.0.6",
-    "socket.io": "^2.1.1"
+    "ws": "^8.18.0"
   }
 }
